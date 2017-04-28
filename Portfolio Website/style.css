@@ -1,0 +1,677 @@
+
+
+a {
+	
+ text-decoration: none;
+ font-weight: bold;
+ color: #000000
+
+ 
+ 
+}
+
+
+
+* {
+	box-sizing: border-box;
+	
+}
+
+h1{
+	text-align: center;
+	color: #2e2e1f;
+	font-family: Helvetica, sans-serif;
+    font-size: 4rem;
+
+}
+
+
+
+
+
+
+ul {
+	text-align: center;
+	
+}
+
+	
+
+li {
+	display: inline;
+	font-family: Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: 100;
+	padding: 5px;
+	top: 2px;
+	position: relative;
+	left: -10px;
+
+	
+	
+}
+
+
+
+
+ p {
+	text-align: left;
+	font-family: Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: 100px;
+	position: relative;
+	
+	
+	
+	
+ }
+ 
+
+.olivia {
+
+	position: relative;
+    height: 100px;
+	width: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	left: 800px;
+	bottom: 10px;
+	
+}
+
+
+
+#intro {
+     font-family: Helvetica;
+	 text-align: center;
+	 font-size: 30px;
+	 font-weight: bold;
+	 color: #2e2e1f;
+
+}
+
+
+.nav {
+	word-spacing: 1em;
+    text-transform: uppercase;
+	
+	
+}
+
+.workbutton {
+	height: 50px;
+	width: 150px;
+	background-color: #51CCCC;
+	border-style: 2px solid; 
+	border-radius: 5px;
+	margin: auto;
+	text-align:center;
+	box-shadow: 0 5px #51CCCC;
+	color: #ffffff;
+	font-family: Helvetica;
+	font-weight: 100px;
+	text-transform: uppercase;
+	font-size: 12px;
+	position: relative;
+	line-height: 4em;
+	bottom: -80px;
+	
+	
+}
+
+.workbutton: hover {background-color: #51CCCC;
+
+}
+
+html,
+body {
+	background-color: #98e5ec;
+	margin: 0;
+	width: 100%;
+	height: 100%;
+	display: table;
+}
+
+.panel {
+  margin-left: auto;
+  margin-right: auto;
+  left: 50px;
+  background-color: white;
+  box-sizing: border-box;
+  padding: 40px;
+  position: relative;
+  top: 50px;
+  text-align: center;
+  width: 1000px;
+  height: 1000px;
+  z-index: 999;
+  border-radius: 0%;
+  
+
+
+}
+
+#page1 {
+	box-sizing: border-box;
+	position: relative;
+	top: 55px;
+	margin-left: auto;
+	margin-right: auto;
+	left: 50px;
+	height: 1000px;
+	width: 1000px;
+	font-family: Helvetica;
+	background-color: white;
+	
+	
+	
+}
+
+.abouttagline {
+	position: relative;
+	font-weight: 100;
+	top: 35px;
+	text-align: left;
+	left: 40px;
+
+}
+
+#page2 {
+	box-sizing: border-box;
+	position: relative;
+	top: -400px;
+	margin-left: auto;
+	margin-right: auto;
+	left: -60px;
+	height: 1000px;
+	width: 1000px;
+	font-family: Helvetica;
+	font-weight: 100;
+	background-color: white;
+	
+}
+
+
+h2 {
+	text-align: center;
+	font-family: Helvetica, sans-serif;
+	color: #2e2e1f;
+	position: relative;
+	top: 60px;
+	right: 300px;
+	font-size: 30px;
+	
+}
+
+.atext {
+
+position: relative;
+top: -60px;
+right: -40px;
+
+	
+	
+}
+
+#Hi {
+	font-family: Helvetica, sans-serif;
+	font-size: 1rem;
+	font-weight: 300;
+	position: relative;
+	top: 5px;
+}
+
+h3 {
+	font-family: Helvetica, sans-serif;
+	font-weight: bold;
+}
+
+.aboutsub {
+	position: relative;
+	top: -60px;
+	right: -40px;
+
+	
+	
+}
+
+.titlep {
+	position: relative;
+	right:400px;
+}
+
+.btext {
+	
+	position: relative;
+	bottom: 430px;
+	right: -400px;
+	left: 460px;
+	padding-bottom: 50px;
+	padding-left: -50px;
+
+	
+}
+
+.ctext {
+	position: relative;
+	padding: 50px;
+	top: 2px;
+	left: 10px;
+}
+
+.dtext {
+	position: relative;
+	bottom: 480px;
+	left: 460px;
+}
+
+.etext {
+	position: relative;
+	bottom: 530px;
+	left: 45px;
+}
+
+.title {
+	left: 60px;
+	position: relative;
+	top: 40px;
+	right: 60px;
+}
+
+
+table {
+	width: 100%;
+
+}
+
+
+
+table, td, tr {
+
+	position: relative;
+	top: 45px;
+	left: 5px;
+}
+
+.title2 {
+	left: 60px;
+	position: relative;
+	top: 40px;
+	right: 60px;
+
+}
+
+.navbar {
+    box-sizing: border-box;
+	position: relative;
+	top: 45px;
+	margin-left: auto;
+	margin-right: auto;
+	left: 50px;
+	height: 100px;
+	width: 1000px;
+	font-family: Helvetica;
+	background-color: white;
+}
+
+.navtitle {
+	position: relative;
+	top: -50px;
+	
+
+}
+
+.nav2 {
+	position: relative;
+	top: -50px;
+    left: 350px;
+}
+
+.container {
+	height: 80px;
+	width: 1000px;
+	background-color: white;
+	position: absolute;
+	bottom: 280px;
+	right: 10px;
+}
+
+.col-sm-4 {
+	bottom: -50px;
+	font-family: Helvetica;
+	font-weight: 100px;
+}
+
+#page3 {
+	box-sizing: border-box;
+	position: relative;
+	top: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	left: 50px;
+	height: 700px;
+	width: 1000px;
+	font-family: Helvetica;
+	background-color: white;
+}
+
+.title3 {
+	left: 200px;
+	position: relative;
+	top: 40px;
+	right: 60px;
+}
+
+.container2 {
+	height: 80px;
+	width: 1000px;
+	background-color: white;
+	position: relative;
+	bottom: -85px;
+	left: 500px;
+	
+}
+
+#logo {
+	height: 230px;
+	width: 230px;
+	position: relative;
+	top: 2px;
+	
+}
+
+#logobar {
+	height: 90px;
+	width: 90px;
+	position: relative;
+	top: 55px;
+	right: -10px;
+}
+
+#stars {
+	   width: 100px;
+	   height: 100px;
+	   position: relative;
+	   bottom: 560px;
+	   left: 50px;
+}
+
+#hello {
+	width: 280px;
+	height: 200px;
+	position: relative;
+	bottom: -40px;
+	
+}
+
+#portfolio1 {
+	width:300px;
+	height: 200px;
+	
+}
+
+#stars2 {
+	height: 100px;
+	width: 100px;
+	bottom: -250px;
+	left: 50px;
+	position: relative;
+}
+
+
+a:hover {
+	font-weight: 900;
+	
+}
+
+.title4 {
+	position: relative;
+	left: 100px;
+	top: 80px;
+	right: 10px;
+	text-align: left;
+}
+
+
+.protext {
+	position: relative;
+	text-align: left;
+	font-family: Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: 100px;
+	position: relative;
+    position: relative;
+	padding: 50px;
+	top: 40px;
+	left: 55px;
+}
+   .quote {
+	   position: relative;
+	   top: 20px;
+	   width: 250px;
+	   font-weight: 200px;
+	   font-size: 10px;
+	   
+	 
+  
+
+    
+   }
+   
+   strong {
+	   color: red;
+   }
+   
+  #portfolioimage1 {
+
+	  width: 220px;
+	  height: 220px;
+	  position: relative;
+	  top: -320px;
+	  left: 380px;
+  
+  }
+  #portfolioimage2 {
+	 width: 220px;
+	 height: 220px;
+	 position: relative;
+	 left:400px;
+	 top: -320px;
+  }
+
+  #portfolioimage3 {
+	  width: 220px;
+	  height: 220px;
+	  position: relative;
+	  top: -80px;
+	  left: 175px;
+  }
+  
+  #portfolioimage4 {
+	  width: 220px;
+	  height: 220px;
+	  position: relative;
+	  top: -80px;
+	  left: -290px;
+	  right: 10px;
+  }
+  
+	  
+  
+ #portfolioimage5 {
+      width: 220px;
+	  height: 220px;
+	  position: relative;
+	  top: -180px;
+	  left: 450px;
+ }
+ 
+ #portfolioimage6 {
+	 width: 220px;
+	  height: 220px;
+	  position: relative;
+	  top: 50px;
+	  left: -100px;
+ }
+ 
+
+ #portfolioimage7 {
+	 width: 300px;
+	 height: 200px;
+	 position: relative;
+	 top: -170px;
+	 left: 450px;
+ }
+ 
+ #portfolioimage8 {
+	 width: 150px;
+	 height: 200px;
+	 position: relative;
+	 left: -150px;
+	 bottom: -50px;
+	 
+ }
+ 
+ 
+.mainpage {
+	background-color: white;
+	height: 100px;
+	width: 1000px;
+	position: relative;
+	bottom: 360px;
+	right: 60px;
+	font-family: helvetica;
+	font-size: 14px;
+}
+
+
+
+.portfoliofooter {
+    background-color: white;
+	font-family: helvetica;
+	font-size: 14px;
+	font-weight: 200px;
+	position: fixed;
+    left:0px;
+    bottom:0px;
+    height:30px;
+    width:100%;
+	
+}
+
+#broccoli {
+	width: 220px;
+	height: 220px;
+	position: relative;
+	top: 50px;
+}
+
+#portfolioimage9 {
+	height: 450px;
+    width: 300px;
+	position: relative;
+	top: -210px;
+	left: 400px;
+}
+
+#portfolioimage10 {
+	height: 200px;
+	width: 300px;
+	position: relative;
+	top: -210px;
+	left: -300px;
+}
+
+#portfolioimageL {
+	  width: 220px;
+	  height: 220px;
+	  position: relative;
+	  top: -280px;
+	  left: 380px;
+
+}
+
+#portfolioimageL1 {
+	 width: 220px;
+	 height: 220px;
+	 position: relative;
+	 left:400px;
+	 top: -280px;
+	 
+}
+
+#portfolioimageL2 {
+	  width: 220px;
+	  height: 220px;
+	  position: relative;
+	  top: -35px;
+	  left: 175px;
+}
+
+#portfolioimageL3 {
+	  width: 220px;
+	  height: 220px;
+	  position: relative;
+	  top: -35px;
+	  left: -290px;
+	  right: 10px;
+}
+
+#portfolioimageD {
+	  width: 220px;
+	  height: 220px;
+	  position: relative;
+	  top: -230px;
+	  left: 380px;
+}
+
+#portfolioimageD1 {
+	 width: 220px;
+	 height: 220px;
+	 position: relative;
+	 left:400px;
+	 top: -230px;
+}
+
+#portfolioimageD2 {
+	  width: 220px;
+	  height: 220px;
+	  position: relative;
+	  top: 5px;
+	  left: 175px;
+	  
+}
+
+#portfolioimageD3 {
+	  width: 220px;
+	  height: 220px;
+	  position: relative;
+	  top: 5px;
+	  left: -290px;
+	  right: 10px;
+
+}
+
+#footertext {
+	text-align: center;
+}
+
+#socialmediaicons {
+	width: 30px;
+	height: 30px;
+}
+
+.icons {
+	bottom: -50px;
+	position: relative;
+	right: 80px;
+}
+
+
+
+
+
+
+
+
+ 
